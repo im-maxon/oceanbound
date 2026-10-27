@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oceanbound:block/strippedlogtop",
+    "up": "oceanbound:block/strippedlogtop",
+    "north": "oceanbound:block/strippedlog",
+    "east": "oceanbound:block/strippedlog",
+    "south": "oceanbound:block/strippedlog",
+    "west": "oceanbound:block/strippedlog",
+    "particle": "oceanbound:block/strippedlogtop"
+  },
+  "render_type": "solid"
+}

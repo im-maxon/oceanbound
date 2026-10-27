@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "oceanbound:block/chiseled_dream_stone_bricks_topbottom",
+    "particle": "oceanbound:block/chiseled_dream_stone_bricks_topbottom"
+  },
+  "render_type": "solid"
+}

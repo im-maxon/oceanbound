@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oceanbound:block/grass_bottom",
+    "up": "oceanbound:block/grass_top",
+    "north": "oceanbound:block/grass_side",
+    "east": "oceanbound:block/grass_side",
+    "south": "oceanbound:block/grass_side",
+    "west": "oceanbound:block/grass_side",
+    "particle": "oceanbound:block/grass_bottom"
+  },
+  "render_type": "solid"
+}

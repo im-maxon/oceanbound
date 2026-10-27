@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left",
+  "textures": {
+    "particle": "oceanbound:block/door_bottom",
+    "bottom": "oceanbound:block/door_bottom",
+    "top": "oceanbound:block/door_top"
+  },
+  "render_type": "solid"
+}

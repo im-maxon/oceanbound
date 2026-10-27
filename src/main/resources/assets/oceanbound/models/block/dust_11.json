@@ -1,0 +1,9 @@
+{
+  "parent": "oceanbound:custom/layer12",
+  "textures": {
+    "all": "oceanbound:block/dust",
+    "particle": "oceanbound:block/dust",
+    "0": "oceanbound:block/dust"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "oceanbound:block/dream_cobblestone",
+    "particle": "oceanbound:block/dream_cobblestone"
+  },
+  "render_type": "solid"
+}

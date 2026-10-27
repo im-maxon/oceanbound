@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "oceanbound:block/short_grass",
+    "particle": "oceanbound:block/short_grass"
+  },
+  "render_type": "cutout"
+}

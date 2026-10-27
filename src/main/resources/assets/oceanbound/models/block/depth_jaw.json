@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oceanbound:block/depthslate",
+    "up": "oceanbound:block/depthslatesnare",
+    "north": "oceanbound:block/depthslate",
+    "east": "oceanbound:block/depthslate",
+    "south": "oceanbound:block/depthslate",
+    "west": "oceanbound:block/depthslate",
+    "particle": "oceanbound:block/depthslate"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "oceanbound:block/depth_slate_brick_slab"
+    },
+    "type=top": {
+      "model": "oceanbound:block/depth_slate_brick_slab_top"
+    },
+    "type=double": {
+      "model": "oceanbound:block/depth_slate_brick_slab_full"
+    }
+  }
+}

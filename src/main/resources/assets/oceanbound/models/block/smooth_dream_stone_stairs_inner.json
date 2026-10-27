@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "oceanbound:block/smooth_dream_stone",
+    "bottom": "oceanbound:block/smooth_dream_stone",
+    "top": "oceanbound:block/smooth_dream_stone",
+    "side": "oceanbound:block/smooth_dream_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "oceanbound:item/dw_sign"
+  },
+  "render_type": "translucent"
+}

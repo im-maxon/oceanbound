@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oceanbound:block/chiseled_top_tile"
+    },
+    "facing=east": {
+      "model": "oceanbound:block/chiseled_top_tile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oceanbound:block/chiseled_top_tile",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oceanbound:block/chiseled_top_tile",
+      "y": 270
+    }
+  }
+}

@@ -10,6 +10,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
+    //items
     public static final Item CINNAMON = registerItem("cinnamon", new Item(new Item.Settings()));
     public static final Item DETERMINATION = registerItem("determination", new Item(new Item.Settings()));
 
@@ -20,11 +21,12 @@ public class ModItems {
 
 
 
-
+    //helper method
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(Oceanbound.MOD_ID, name), item);
     }
 
+    // registry!!
     public static void registerModItems() {
         Oceanbound.LOGGER.info("Registering Mod Items for " + Oceanbound.MOD_ID);
 

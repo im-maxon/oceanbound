@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oceanbound:block/stripped_dark_candy_tree_log",
+    "up": "oceanbound:block/stripped_dark_candy_tree_log",
+    "north": "oceanbound:block/stripped_dark_candy_tree_log",
+    "east": "oceanbound:block/stripped_dark_candy_tree_log",
+    "south": "oceanbound:block/stripped_dark_candy_tree_log",
+    "west": "oceanbound:block/stripped_dark_candy_tree_log",
+    "particle": "oceanbound:block/stripped_dark_candy_tree_log"
+  },
+  "render_type": "solid"
+}

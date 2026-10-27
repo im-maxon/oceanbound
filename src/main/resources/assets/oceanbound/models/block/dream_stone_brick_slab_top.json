@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "oceanbound:block/dream_stone_bricks",
+    "bottom": "oceanbound:block/dream_stone_bricks",
+    "top": "oceanbound:block/dream_stone_bricks",
+    "side": "oceanbound:block/dream_stone_bricks"
+  },
+  "render_type": "solid"
+}

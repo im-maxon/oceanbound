@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "oceanbound:block/chiseled_dream_stone_bricks_topbottom",
+    "bottom": "oceanbound:block/chiseled_dream_stone_bricks_topbottom",
+    "top": "oceanbound:block/chiseled_dream_stone_bricks_topbottom",
+    "side": "oceanbound:block/chiseled_dream_stone_bricks_topbottom"
+  },
+  "render_type": "solid"
+}

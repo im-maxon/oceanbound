@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "oceanbound:block/dark_candy_planks",
+    "bottom": "oceanbound:block/dark_candy_planks",
+    "top": "oceanbound:block/dark_candy_planks",
+    "side": "oceanbound:block/dark_candy_planks"
+  },
+  "render_type": "solid"
+}

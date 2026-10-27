@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "oceanbound:block/smooth_depth_slate_slab"
+    },
+    "type=top": {
+      "model": "oceanbound:block/smooth_depth_slate_slab_top"
+    },
+    "type=double": {
+      "model": "oceanbound:block/smooth_depth_slate_slab_full"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "oceanbound:block/dream_stone_bricks",
+    "particle": "oceanbound:block/dream_stone_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "oceanbound:block/dust_0"
+    },
+    "layers=2": {
+      "model": "oceanbound:block/dust_1"
+    },
+    "layers=3": {
+      "model": "oceanbound:block/dust_2"
+    },
+    "layers=4": {
+      "model": "oceanbound:block/dust_3"
+    },
+    "layers=5": {
+      "model": "oceanbound:block/dust_4"
+    },
+    "layers=6": {
+      "model": "oceanbound:block/dust_5"
+    },
+    "layers=7": {
+      "model": "oceanbound:block/dust_6"
+    },
+    "layers=8": {
+      "model": "oceanbound:block/dust_7"
+    },
+    "layers=9": {
+      "model": "oceanbound:block/dust_8"
+    },
+    "layers=10": {
+      "model": "oceanbound:block/dust_9"
+    },
+    "layers=11": {
+      "model": "oceanbound:block/dust_10"
+    },
+    "layers=12": {
+      "model": "oceanbound:block/dust_11"
+    },
+    "layers=13": {
+      "model": "oceanbound:block/dust_12"
+    },
+    "layers=14": {
+      "model": "oceanbound:block/dust_13"
+    },
+    "layers=15": {
+      "model": "oceanbound:block/dust_14"
+    },
+    "layers=16": {
+      "model": "oceanbound:block/dust_15"
+    }
+  }
+}

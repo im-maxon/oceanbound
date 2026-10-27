@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "oceanbound:block/depthslate_tiles",
+    "bottom": "oceanbound:block/depthslate_tiles",
+    "top": "oceanbound:block/depthslate_tiles",
+    "side": "oceanbound:block/depthslate_tiles"
+  },
+  "render_type": "solid"
+}

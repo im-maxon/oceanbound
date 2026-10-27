@@ -1,4 +1,8 @@
 {
   "item.oceanbound.cinnamon": "Cinnamon",
-  "item.oceanbound.determination": "Determination"
+  "item.oceanbound.determination": "Determination",
+
+
+  "block.oceanbound.dream_stone": "Dream Stone",
+  "block.oceanbound.dream_grass": "Dream Grass"
 }

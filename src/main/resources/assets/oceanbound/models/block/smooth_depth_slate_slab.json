@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "oceanbound:block/depthslate_smooth",
+    "bottom": "oceanbound:block/depthslate_smooth",
+    "top": "oceanbound:block/depthslate_smooth",
+    "side": "oceanbound:block/depthslate_smooth"
+  },
+  "render_type": "solid"
+}

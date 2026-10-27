@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "oceanbound:block/darkcandy_leaves" },
+      { "model": "oceanbound:block/darkcandy_leaves" },
+      { "model": "oceanbound:block/darkcandy_leaves" },
+      { "model": "oceanbound:block/darkcandy_leaves_2" },
+      { "model": "oceanbound:block/darkcandy_leaves_3" }
+    ]
+  }
+}

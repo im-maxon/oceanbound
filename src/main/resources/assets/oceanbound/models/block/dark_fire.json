@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "oceanbound:block/dark_fire",
+    "particle": "oceanbound:block/blank"
+  },
+  "render_type": "cutout"
+}

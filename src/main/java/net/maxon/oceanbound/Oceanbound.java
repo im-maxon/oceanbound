@@ -2,6 +2,7 @@ package net.maxon.oceanbound;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.maxon.oceanbound.block.ModBlocks;
 import net.maxon.oceanbound.item.ModItems;
 
 import org.slf4j.Logger;
@@ -18,6 +19,7 @@ public class Oceanbound implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 
 }

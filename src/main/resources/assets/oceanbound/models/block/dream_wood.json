@@ -1,0 +1,43 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "oceanbound:block/log_side",
+		"1": "oceanbound:block/log_side",
+		"2": "oceanbound:block/outline_dream_log",
+		"particle": "oceanbound:block/log_side"
+	},
+	"elements": [
+		{
+			"name": "block",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"name": "outline",
+			"from": [17, 17, 17],
+			"to": [-1, -1, -1],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [18, 18, 18]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "south"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "west"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "north"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "east"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "down"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "up"}
+			}
+		}
+	]
+}

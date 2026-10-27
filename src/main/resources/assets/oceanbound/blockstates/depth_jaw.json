@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "biting=false": {
+      "model": "oceanbound:block/depth_jaw_0"
+    },
+    "biting=true": {
+      "model": "oceanbound:block/depth_jaw_1"
+    }
+  }
+}

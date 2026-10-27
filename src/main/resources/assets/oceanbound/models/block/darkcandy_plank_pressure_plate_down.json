@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "oceanbound:block/dark_candy_planks",
+    "particle": "oceanbound:block/dark_candy_planks"
+  },
+  "render_type": "solid"
+}

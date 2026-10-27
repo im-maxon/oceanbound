@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oceanbound:block/tb_tile_star",
+    "particle": "oceanbound:block/tb_tile_star"
+  },
+  "render_type": "solid"
+}

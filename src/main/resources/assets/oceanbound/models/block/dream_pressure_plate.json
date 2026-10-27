@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "oceanbound:block/planks",
+    "particle": "oceanbound:block/planks"
+  },
+  "render_type": "solid"
+}
