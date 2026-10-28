@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "oceanbound:dream_log",
+    "oceanbound:dream_wood",
+    "oceanbound:darkcandy_leaves",
+    "oceanbound:dream_leaves",
+    "oceanbound:darkcandy_log",
+    "oceanbound:darkcandy_wood"
+  ]
+}

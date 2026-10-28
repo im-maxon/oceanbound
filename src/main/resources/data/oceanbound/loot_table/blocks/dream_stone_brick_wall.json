@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "oceanbound:blocks/dream_stone_brick_wall",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oceanbound:dream_stone_brick_wall"
+        }
+      ]
+    }
+  ]
+}

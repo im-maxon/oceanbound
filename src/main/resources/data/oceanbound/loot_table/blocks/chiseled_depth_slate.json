@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "oceanbound:blocks/chiseled_depth_slate",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oceanbound:chiseled_depth_slate"
+        }
+      ]
+    }
+  ]
+}

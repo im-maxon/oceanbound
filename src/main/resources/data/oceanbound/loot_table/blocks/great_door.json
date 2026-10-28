@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "oceanbound:blocks/great_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oceanbound:great_door",
+          "conditions": [
+            {
+              "block": "oceanbound:great_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "oceanbound:blocks/dream_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oceanbound:dream_door",
+          "conditions": [
+            {
+              "block": "oceanbound:dream_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
