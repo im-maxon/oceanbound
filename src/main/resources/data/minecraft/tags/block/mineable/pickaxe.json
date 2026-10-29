@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "oceanbound:dream_grass",
+    "oceanbound:dream_stone",
+    "oceanbound:dream_stone_slab",
+    "oceanbound:dream_stone_stairs",
+    "oceanbound:dream_stone_wall"
+  ]
+}

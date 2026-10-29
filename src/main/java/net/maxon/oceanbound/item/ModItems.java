@@ -30,10 +30,7 @@ public class ModItems {
     public static void registerModItems() {
         Oceanbound.LOGGER.info("Registering Mod Items for " + Oceanbound.MOD_ID);
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
-            entries.add(CINNAMON);
-            entries.add(DETERMINATION);
-        });
+
     }
 
 

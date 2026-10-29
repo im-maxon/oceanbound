@@ -2,9 +2,14 @@ package net.maxon.oceanbound;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.StrippableBlockRegistry;
 import net.maxon.oceanbound.block.ModBlocks;
+import net.maxon.oceanbound.item.ModItemGroups;
 import net.maxon.oceanbound.item.ModItems;
 
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
+import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -20,6 +25,13 @@ public class Oceanbound implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
+
+
+		StrippableBlockRegistry.register(ModBlocks.DREAM_LOG, ModBlocks.STRIPPED_DREAM_LOG);
+		StrippableBlockRegistry.register(ModBlocks.DREAM_WOOD, ModBlocks.STRIPPED_DREAM_WOOD);
+
+
 	}
 
 }

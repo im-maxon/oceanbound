@@ -4,5 +4,18 @@
 
 
   "block.oceanbound.dream_stone": "Dream Stone",
-  "block.oceanbound.dream_grass": "Dream Grass"
+  "block.oceanbound.dream_grass": "Dream Grass",
+  "block.oceanbound.dream_stone_slab": "Dream Stone Slab",
+  "block.oceanbound.dream_stone_wall": "Dream Stone Wall",
+  "block.oceanbound.dream_stone_stairs": "Dream Stone Stairs",
+
+  "block.oceanbound.dream_log": "Dream Log",
+  "block.oceanbound.dream_wood": "Dream Wood",
+  "block.oceanbound.stripped_dream_log": "Stripped Dream Log",
+  "block.oceanbound.stripped_dream_wood": "Stripped Dream Wood",
+  "block.oceanbound.dream_planks": "Dream Planks",
+  "block.oceanbound.dream_sapling": "Dream Sapling",
+  "block.oceanbound.dream_leaves": "Dream Leaves",
+
+  "itemgroup.oceanbound.oceanbound": "Oceanbound"
 }
