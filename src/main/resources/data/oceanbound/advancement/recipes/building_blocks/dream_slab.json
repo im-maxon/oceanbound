@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dream_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "oceanbound:dream_planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "oceanbound:dream_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dream_planks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "oceanbound:dream_slab"
+    ]
+  }
+}

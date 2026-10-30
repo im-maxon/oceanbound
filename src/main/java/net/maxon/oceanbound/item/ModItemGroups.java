@@ -30,11 +30,21 @@ public class ModItemGroups {
                         entries.add(ModBlocks.DREAM_STONE_SLAB);
                         entries.add(ModBlocks.DREAM_STONE_WALL);
 
+                        entries.add(ModBlocks.DREAM_COBBLESTONE);
+
+
                         entries.add(ModBlocks.DREAM_LOG);
                         entries.add(ModBlocks.DREAM_WOOD);
                         entries.add(ModBlocks.STRIPPED_DREAM_LOG);
                         entries.add(ModBlocks.STRIPPED_DREAM_WOOD);
+
                         entries.add(ModBlocks.DREAM_PLANKS);
+                        entries.add(ModBlocks.DREAM_STAIRS);
+                        entries.add(ModBlocks.DREAM_SLAB);
+                        entries.add(ModBlocks.DREAM_FENCE);
+                        entries.add(ModBlocks.DREAM_FENCE_GATE);
+                        entries.add(ModBlocks.DREAM_DOOR);
+                        entries.add(ModBlocks.DREAM_TRAP_DOOR);
                         entries.add(ModBlocks.DREAM_SAPLING);
                         entries.add(ModBlocks.DREAM_LEAVES);
                     })

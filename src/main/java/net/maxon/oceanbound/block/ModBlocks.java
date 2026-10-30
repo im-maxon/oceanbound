@@ -37,6 +37,10 @@ public class ModBlocks {
             new WallBlock(AbstractBlock.Settings.create().strength(1.6f,10f).sounds(BlockSoundGroup.DRIPSTONE_BLOCK).requiresTool())
     );
 
+    public static final Block DREAM_COBBLESTONE = registerBlock("dream_cobblestone",
+            new Block(AbstractBlock.Settings.create().strength(2.5f, 10f).sounds(BlockSoundGroup.DRIPSTONE_BLOCK).requiresTool())
+    );
+
 
 
 
@@ -50,6 +54,14 @@ public class ModBlocks {
     public static final Block DREAM_PLANKS = registerBlock("dream_planks", new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
     public static final Block DREAM_LEAVES = registerBlock("dream_leaves", new LeavesBlock(AbstractBlock.Settings.copy(Blocks.OAK_LEAVES)));
     public static final Block DREAM_SAPLING = registerBlock("dream_sapling", new SaplingBlock(ModSaplingGenerators.DREAM, AbstractBlock.Settings.copy(Blocks.OAK_SAPLING)));
+    public static final Block DREAM_SLAB = registerBlock("dream_slab", new Block(AbstractBlock.Settings.copy(Blocks.OAK_SLAB)));
+    public static final Block DREAM_STAIRS = registerBlock("dream_stairs", new Block(AbstractBlock.Settings.copy(Blocks.OAK_STAIRS)));
+    public static final Block DREAM_FENCE = registerBlock("dream_fence", new Block(AbstractBlock.Settings.copy(Blocks.OAK_FENCE)));
+    public static final Block DREAM_FENCE_GATE = registerBlock("dream_fence_gate", new Block(AbstractBlock.Settings.copy(Blocks.OAK_FENCE_GATE)));
+    public static final Block DREAM_DOOR = registerBlock("dream_door", new Block(AbstractBlock.Settings.copy(Blocks.OAK_DOOR)));
+    public static final Block DREAM_TRAP_DOOR = registerBlock("dream_trap_door", new Block(AbstractBlock.Settings.copy(Blocks.OAK_TRAPDOOR)));
+    public static final Block DREAM_PRESSURE_PLATE = registerBlock("dream_pressure_plate", new Block(AbstractBlock.Settings.copy(Blocks.OAK_PRESSURE_PLATE)));
+    public static final Block DREAM_BUTTON = registerBlock("dream_button", new Block(AbstractBlock.Settings.copy(Blocks.OAK_BUTTON)));
 
 
 

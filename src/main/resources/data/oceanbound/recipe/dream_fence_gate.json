@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "oceanbound:dream_planks"
+    }
+  },
+  "pattern": [
+    "   ",
+    "#$#",
+    "#$#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oceanbound:dream_fence_gate"
+  }
+}

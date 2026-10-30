@@ -4,6 +4,7 @@
 
 
   "block.oceanbound.dream_stone": "Dream Stone",
+  "block.oceanbound.dream_cobblestone": "Dream Cobblestone",
   "block.oceanbound.dream_grass": "Dream Grass",
   "block.oceanbound.dream_stone_slab": "Dream Stone Slab",
   "block.oceanbound.dream_stone_wall": "Dream Stone Wall",
@@ -16,6 +17,13 @@
   "block.oceanbound.dream_planks": "Dream Planks",
   "block.oceanbound.dream_sapling": "Dream Sapling",
   "block.oceanbound.dream_leaves": "Dream Leaves",
+
+  "block.oceanbound.dream_stairs": "Dream Stairs",
+  "block.oceanbound.dream_slab": "Dream Slab",
+  "block.oceanbound.dream_fence": "Dream Fence",
+  "block.oceanbound.dream_fence_gate": "Dream Fence Gate",
+  "block.oceanbound.dream_door": "Dream Door",
+  "block.oceanbound.dream_trap_door": "Dream Trapdoor",
 
   "itemgroup.oceanbound.oceanbound": "Oceanbound"
 }
